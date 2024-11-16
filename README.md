@@ -66,4 +66,4 @@ insert into Refreshment_Prices Values("FoodName(Under 50 characters)", (Please t
 
 Please note that for the application to work properly the monitor size should be 1920x1080 or greater.
 
-Please note that you might need to install a few modules for the code to work. For this purpose please use the pip install command.
+Please note that you might need to install a few modules for the code to work. For this purpose please use the pip install command in the python console.

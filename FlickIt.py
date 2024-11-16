@@ -5,7 +5,7 @@ import random
 import datetime as dt
 
 
-con=ms.connect(host='localhost',database="Movie",user='root',password="Shaun")
+con=ms.connect(host='localhost',database="Movie",user='root',password="YourMySQLPassword")
 cur=con.cursor()
 
 time = dt.datetime.now()

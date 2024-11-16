@@ -1,5 +1,6 @@
 # Movie-Management-System
 This is a movie management system using Python and MySQL. For the program to work please update the file "FlickIt.py" with your MySQL password. Then please run the following code one by one in the MySQL interpreter:
+
 '''
 create table Movies(Movie_ID char(5), Movie_Name varchar(100), Available_Front_Seats int, Available_Middle_Seats int, Available_Back_Seats int, Total_Available_Seats int, Show_Time time, Price int);
 

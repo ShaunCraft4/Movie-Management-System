@@ -55,9 +55,13 @@ insert into Refreshment_Prices Values("Fries", 16);
 
 You can add more movies and refreshments yourself using the following syntax:
 
+'''
+
 insert into Movies Values("MovieID(Please make sure it doesn't repeat and it is 4 characters long)","MovieName(under 100 characters long)", 25,50,25,100,(Please write the time of the movie without colons. Ex: For 12:30 write 123000. Please type this without the brackets),(Type the price of the movie in integers without brackets));
 
 insert into Refreshment_Prices Values("FoodName(Under 50 characters)", (Please type the price of the food item without brackets in integers);
+
+'''
 
 
 Please note that for the application to work properly the monitor size should be 1920x1080 or greater.
